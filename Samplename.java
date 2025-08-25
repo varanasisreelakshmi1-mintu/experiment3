@@ -1,5 +1,6 @@
 public class Samplename{
     public static void main(String[] args) {
-        System.out.println("Hello ,my name is "+name);
+        String name="sree lakshmi";
+        System.out.println("Hello ,my name is "+ name);
     }
 }
